@@ -1,8 +1,7 @@
 # Website Scraper - Kali Linux Setup Guide
 
 ![Version](https://img.shields.io/badge/Version-1.0-blue)  
-![Author](https://img.shields.io/badge/Author-Trung_Huynh-green)  
-![Docker](https://img.shields.io/badge/Docker-Latest-blue)  
+![Author](https://img.shields.io/badge/Author-Trung_Huynh-green)   
 ![License](https://img.shields.io/badge/License-MIT-green)  
 ![Contributions](https://img.shields.io/badge/Contributions-Welcome-orange)  
 
