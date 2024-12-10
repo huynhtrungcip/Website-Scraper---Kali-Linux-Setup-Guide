@@ -161,7 +161,7 @@ Open the following path in your browser:
 Contributions are welcome! Please feel free to fork this repository and submit pull requests.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This repository is licensed under the **Apache License 2.0**. See the [LICENSE](LICENSE) file for more details.
 
 ---
 
